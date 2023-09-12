@@ -1,2 +1,2 @@
-# LATIA112-1
-NTNU EduLRS LATIA112-1
+# 國立臺灣師範大學 教育大數據微課程 LATIA112-1
+課程名稱：
